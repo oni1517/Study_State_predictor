@@ -1,0 +1,26 @@
+{
+  "Random Forest": {
+    "accuracy": 0.76,
+    "f1_score": 0.7613,
+    "cv_mean": 0.7792,
+    "cv_std": 0.0165
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.778,
+    "f1_score": 0.7784,
+    "cv_mean": 0.7765,
+    "cv_std": 0.0146
+  },
+  "Logistic Regression": {
+    "accuracy": 0.799,
+    "f1_score": 0.7998,
+    "cv_mean": 0.81,
+    "cv_std": 0.0082
+  },
+  "SVM": {
+    "accuracy": 0.804,
+    "f1_score": 0.8041,
+    "cv_mean": 0.8108,
+    "cv_std": 0.0115
+  }
+}
